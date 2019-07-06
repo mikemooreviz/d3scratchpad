@@ -1,4 +1,4 @@
-var city = "Austin" // "New York" Austin" "San Francisco"
+var city = "New York" // "New York" Austin" "San Francisco"
 var width = 800;
 var height = 300;
 var margin = {top: 20, bottom: 20, left: 20, right: 20};
